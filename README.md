@@ -15,7 +15,7 @@
 ### 🔄 UI/UX Inspired by TikTok
 - Swipe-based, full screen content feed.
 - Creators can post photos, videos, music, books, livestreams, and more.
-- Monetization integrated into posts and livestreams.
+- Monetization integrated into posts and streams.
 
 ### 💸 Direct Monetization (No Ads)
 - Influencers and creators can:
