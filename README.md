@@ -38,7 +38,7 @@
 - Users can search by proximity or interest.
 
 ### 📺 Free TV + Premium Slots
-- **Live TV access is free** for users paid for by the channel.
+- **Live TV access is free** for users paid for by the channels.
 - Verified broadcasters pay to list content and are promoted accordingly.
 - Paid blue check verification for major brands.
 
