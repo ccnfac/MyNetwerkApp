@@ -42,7 +42,7 @@
 - Verified broadcasters pay to list content and are promoted accordingly.
 - Paid blue check verification for major brands.
 
-### 🧠 AI-Enhanced Stories (Optional)
+### 🧠 AI-Enhanced Stories 
 - Bring photos to life using **GPT-4 or Grok style image/video effects**.
 - Only available to **verified, subscribed users**.
 - No face swapping or AI impersonation allowed.
