@@ -104,7 +104,7 @@ Licensed under **AGPLv3** to protect user freedoms and prevent proprietary forks
 ## 🛠️ Roadmap
 
 - [ ] MVP UI (video feed, creator profile, subscriptions)
-- [ ] Payments integration (crypto + card)
+- [ ] Payments integration (crypto + paypal)
 - [ ] Loqi Nearby system
 - [ ] Creator commerce (sell music, books, merch)
 - [ ] Child safety and filtering system
