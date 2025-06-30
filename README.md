@@ -91,7 +91,7 @@ We're looking for:
 - **UX/UI designers**
 - **Influencers & educators**
 
-Want to help? [Open an issue](https://github.com/your-org/mynetwerk-social/issues) or email us at `team@mynetwerk.app`.
+Want to help? Email us at `g7485987384@yahoo.com`.
 
 ---
 
