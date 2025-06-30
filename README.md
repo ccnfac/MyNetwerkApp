@@ -113,5 +113,4 @@ Licensed under **AGPLv3** to protect user freedoms and prevent proprietary forks
 
 ---
 
-> Built in 🇨🇭Switzerland with the spirit of fairness, privacy, and empowerment.
 
