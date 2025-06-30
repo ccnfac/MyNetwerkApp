@@ -6,24 +6,23 @@
 
 ## 🚀 Overview
 
-**MyNetwerk** is a privacy-first, creator-centric social platform that blends the immersive, swipeable experience of TikTok with the monetization and business tools of Instagram — without relying on traditional advertising. Instead, creators earn directly from their audience. No middlemen. No compromises.
+**MyNetwerk Social** is a privacy first, creator centric social platform that blends the immersive, swipeable experience of TikTok with the monetization and business tools of Amazon and Instagram without relying on traditional advertising. Instead, creators earn directly from their audience. No middlemen. No compromises.
 
 ---
 
 ## 🎯 Key Features
 
 ### 🔄 UI/UX Inspired by TikTok
-- Swipe-based, full-screen content feed.
-- Creators can post photos, videos, music, stories, livestreams, and more.
-- Monetization button integrated into posts and livestreams.
+- Swipe-based, full screen content feed.
+- Creators can post photos, videos, music, books, livestreams, and more.
+- Monetization integrated into posts and livestreams.
 
 ### 💸 Direct Monetization (No Ads)
 - Influencers and creators can:
-  - Sell subscriptions to private channels.
+  - Sell private subscriptions channels.
   - Promote affiliate products (verified partnerships only).
-  - Sell music, movies, books, merchandise, courses, and services.
+  - Sell music, movies, books, merchandise, courses, services and more.
 - Payments via crypto or credit card.
-- **MyNetwerk takes a minimal cut**.
 
 ### 🎤 Support for All Creators
 - 🎶 Musicians: sell music or albums directly.
@@ -39,12 +38,12 @@
 - Users can search by proximity or interest.
 
 ### 📺 Free TV + Premium Slots
-- **Live TV access is free** for users.
+- **Live TV access is free** for users paid for by the channel.
 - Verified broadcasters pay to list content and are promoted accordingly.
-- Blue check verification is expensive for major brands, based on follower count.
+- Paid blue check verification for major brands.
 
 ### 🧠 AI-Enhanced Stories (Optional)
-- Bring photos to life using **GPT-4/Grok-style image/video effects**.
+- Bring photos to life using **GPT-4 or Grok style image/video effects**.
 - Only available to **verified, subscribed users**.
 - No face swapping or AI impersonation allowed.
 
@@ -54,7 +53,7 @@
 
 - 🔒 **Strict verification**: No impersonators, deepfake bans, and fast takedowns.
 - 🧒 **Child protection filters**: No 18+, sexual, racial, or political content for minors.
-- 🚫 No pronouns, face avatars, or biometric modeling.
+- 🚫 No face avatars, or biometric modeling.
 - 🔍 Manual location control: Nothing is geotagged by default.
 
 ---
@@ -70,7 +69,7 @@
 
 ---
 
-## 📱 Tech Stack (Planned)
+## 📱 Tech Stack
 
 - **Frontend:** React Native / Flutter
 - **Backend:** Node.js + GraphQL OR Rust-based service mesh
