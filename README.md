@@ -1,4 +1,4 @@
-# MyNetwerk Scial
+# ✨MyNetwerk Social✨
 
 **The next-generation social media platform — built for creators, powered by fairness, and designed to protect user privacy. No ads. No exploitation. Just real connections and real opportunities.**
 
