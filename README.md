@@ -74,7 +74,7 @@
 - **Frontend:** React Native / Flutter
 - **Backend:** Node.js + GraphQL OR Rust-based service mesh
 - **Media Delivery:** IPFS / Cloudflare Stream / WebRTC
-- **Payments:** Stripe + Crypto wallet integration
+- **Payments:** Paypal + Crypto wallet integration
 - **Authentication:** Email + Biometric (on-device only)
 - **Database:** PostgreSQL + Redis
 - **AI Effects:** OpenAI API or Grok API (Cloud Subscription)
