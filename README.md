@@ -33,18 +33,18 @@
 - 🤣 Comedians: charge for video clips or subscription to exclusive content.
 
 ### 📍 Loqi: Nearby Discovery
-- Creators can optionally promote **events, pop-ups, meetups**, or local influencer programs.
+- Creators can promote **events, pop-ups, meetups**, or local influencer programs.
 - No location tracking unless **explicitly turned on** per post/event.
 - Users can search by proximity or interest.
 
 ### 📺 Free TV + Premium Slots
 - **Live TV access is free** for users.
 - Verified broadcasters pay to list content.
-- Blue check verification for major brands.
+- Blue check verification required for major brands.
 
 ### 🧠 AI-Enhanced Stories 
 - Bring photos to life using **GPT-4 or Grok image/video effects**.
-- Only available to **verified, subscribed users**.
+- Only available to **verified users**.
 - No face swapping or AI impersonation allowed.
 
 ---
