@@ -38,12 +38,12 @@
 - Users can search by proximity or interest.
 
 ### 📺 Free TV + Premium Slots
-- **Live TV access is free** for users paid for by the channels.
-- Verified broadcasters pay to list content and are promoted accordingly.
-- Paid blue check verification for major brands.
+- **Live TV access is free** for users.
+- Verified broadcasters pay to list content.
+- Blue check verification for major brands.
 
 ### 🧠 AI-Enhanced Stories 
-- Bring photos to life using **GPT-4 or Grok style image/video effects**.
+- Bring photos to life using **GPT-4 or Grok image/video effects**.
 - Only available to **verified, subscribed users**.
 - No face swapping or AI impersonation allowed.
 
@@ -63,7 +63,8 @@
 - Filter your feed by topics like:
   - AI & Robotics
   - Construction & Electrician
-  - Welding, Auto Repair
+  - Welding & Auto Repair
+  - Soldering & 3D Printing
   - Cybersecurity & Coding
 - Learn from real pros and get paid for teaching others.
 
