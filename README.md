@@ -19,7 +19,7 @@
 
 ### 💸 Direct Monetization (No Ads)
 - Influencers and creators can:
-  - Sell private subscriptions channels.
+  - Sell subscriptions to private channels.
   - Promote affiliate products (verified partnerships only).
   - Sell music, movies, books, merchandise, courses, services and more.
 - Payments via crypto or paypal.
