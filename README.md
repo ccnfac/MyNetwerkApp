@@ -22,7 +22,7 @@
   - Sell subscriptions to private channels.
   - Promote affiliate products (verified partnerships only).
   - Sell music, movies, books, merchandise, courses, services and more.
-- Payments via crypto or paypal.
+- Payments via Crypto or Transferwise.
 
 ### 🎤 Support for All Creators
 - 🎶 Musicians: sell music or albums directly.
