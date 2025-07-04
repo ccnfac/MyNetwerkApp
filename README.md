@@ -96,22 +96,4 @@ Want to help? Email us at `g7485987384@yahoo.com`
 
 ---
 
-## 📜 License
-
-Licensed under **AGPLv3** to protect user freedoms and prevent proprietary forks that exploit user data.
-
----
-
-## 🛠️ Roadmap
-
-- [ ] MVP UI (video feed, creator profile, subscriptions)
-- [ ] Payments integration (Crypto + Transferwise)
-- [ ] Loqi Nearby system
-- [ ] Creator commerce (sell music, books, merch)
-- [ ] Child safety and filtering system
-- [ ] AI-powered media enhancements
-- [ ] STEM skill feed + earning system
-
----
-
 
