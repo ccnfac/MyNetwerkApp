@@ -75,7 +75,7 @@
 - **Frontend:** React Native / Flutter
 - **Backend:** Node.js + GraphQL OR Rust-based service mesh
 - **Media Delivery:** IPFS / Cloudflare Stream / WebRTC
-- **Payments:** Paypal + Crypto wallet integration
+- **Payments:** Transferwise + Crypto wallet integration
 - **Authentication:** Email + Biometric (on-device only)
 - **Database:** PostgreSQL + Redis
 - **AI Effects:** OpenAI API or Grok API (Cloud Subscription)
@@ -105,7 +105,7 @@ Licensed under **AGPLv3** to protect user freedoms and prevent proprietary forks
 ## 🛠️ Roadmap
 
 - [ ] MVP UI (video feed, creator profile, subscriptions)
-- [ ] Payments integration (crypto + paypal)
+- [ ] Payments integration (Crypto + Transferwise)
 - [ ] Loqi Nearby system
 - [ ] Creator commerce (sell music, books, merch)
 - [ ] Child safety and filtering system
