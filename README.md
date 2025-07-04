@@ -17,7 +17,7 @@
 - Creators can post photos, videos, music, books, livestreams, and more.
 - Monetization integrated into posts and streams.
 
-### 💸 Direct Monetization (No Ads)
+### 💸 Direct Monetization 
 - Influencers and creators can:
   - Sell subscriptions to private channels.
   - Promote affiliate products (verified partnerships only).
