@@ -43,7 +43,7 @@ MyNetwerk Social is a privacy first, creator centric social platform that blends
 - Blue check verification required for major brands.
 
 ### 🧠 AI-Enhanced Stories 
-- Bring photos to life using GPT-4 or Grok image/video effects.
+- Bring photos to life using Stability AI, GPT-4 or Grok image/video effects.
 - Only available to verified users.
 - No face swapping or AI impersonation allowed.
 
