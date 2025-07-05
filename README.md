@@ -22,7 +22,7 @@ MyNetwerk Social is a privacy first, creator centric social platform that blends
   - Sell subscriptions to private channels.
   - Promote affiliate products (verified partnerships only).
   - Sell music, movies, books, merchandise, courses, services and more.
-- Payments via Crypto or Paypal.
+- Payments via Crypto or Paypal/Wise.
 
 ### 🎤 Support for All Creators
 - 🎶 Musicians: sell music or albums directly.
@@ -75,7 +75,7 @@ MyNetwerk Social is a privacy first, creator centric social platform that blends
 - **Frontend:** React Native / Flutter
 - **Backend:** Node.js + GraphQL OR Rust-based service mesh
 - **Media Delivery:** IPFS / Cloudflare Stream / WebRTC
-- **Payments:** Paypal + Crypto wallet integration
+- **Payments:** Wise/Paypal + Crypto wallet integration
 - **Authentication:** Email + Biometric (on-device only)
 - **Database:** PostgreSQL + Redis
 - **AI Effects:** OpenAI API or Grok API (Cloud Subscription)
