@@ -22,7 +22,7 @@
   - Sell subscriptions to private channels.
   - Promote affiliate products (verified partnerships only).
   - Sell music, movies, books, merchandise, courses, services and more.
-- Payments via Crypto or Transferwise.
+- Payments via Crypto or Paypal.
 
 ### 🎤 Support for All Creators
 - 🎶 Musicians: sell music or albums directly.
@@ -33,18 +33,18 @@
 - 🤣 Comedians: charge for video clips or subscription to exclusive content.
 
 ### 📍 Loqi: Nearby Discovery
-- Creators can promote **events, pop-ups, meetups**, or local influencer programs.
-- No location tracking unless **explicitly turned on** per post/event.
+- Creators can promote events, pop-ups, meetups, or local influencer programs.
+- No location tracking unless explicitly turned on per post/event.
 - Users can search by proximity or interest.
 
 ### 📺 Free TV + Premium Slots
-- **Live TV access is free** for users.
+- Live TV access is free for users.
 - Verified broadcasters pay to list content.
 - Blue check verification required for major brands.
 
 ### 🧠 AI-Enhanced Stories 
-- Bring photos to life using **GPT-4 or Grok image/video effects**.
-- Only available to **verified users**.
+- Bring photos to life using GPT-4 or Grok image/video effects.
+- Only available to verified users.
 - No face swapping or AI impersonation allowed.
 
 ---
@@ -75,7 +75,7 @@
 - **Frontend:** React Native / Flutter
 - **Backend:** Node.js + GraphQL OR Rust-based service mesh
 - **Media Delivery:** IPFS / Cloudflare Stream / WebRTC
-- **Payments:** Transferwise + Crypto wallet integration
+- **Payments:** Paypal + Crypto wallet integration
 - **Authentication:** Email + Biometric (on-device only)
 - **Database:** PostgreSQL + Redis
 - **AI Effects:** OpenAI API or Grok API (Cloud Subscription)
