@@ -6,7 +6,7 @@
 
 ## 🚀 Overview
 
-**MyNetwerk Social** is a privacy first, creator centric social platform that blends the immersive, swipeable experience of TikTok with the monetization and business tools of Amazon and Instagram without relying on traditional advertising. Instead, creators earn directly from their audience. No middlemen. No compromises.
+MyNetwerk Social is a privacy first, creator centric social platform that blends the immersive, swipeable experience of TikTok with the monetization and business tools of Amazon and Instagram without relying on traditional advertising. Instead, creators earn directly from their audience. No middlemen. No compromises.
 
 ---
 
