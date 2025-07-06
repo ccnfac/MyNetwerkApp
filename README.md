@@ -78,7 +78,7 @@ MyNetwerk Social is a privacy first, creator centric social platform that blends
 - **Payments:** Wise/Paypal + Crypto wallet integration
 - **Authentication:** Email + Biometric (on-device only)
 - **Database:** PostgreSQL + Redis
-- **AI Effects:** Stability AI API, OpenAI API or Grok API (Cloud Subscription)
+- **AI Effects:** StabilityAI API, OpenAI API or Grok API (Cloud Subscription)
 
 ---
 
