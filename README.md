@@ -24,7 +24,6 @@ MyNetwerk Social is a privacy first, creator centric social platform that blends
   - Promote affiliate products (verified partnerships only).
   - Sell music, movies, books, merchandise, courses, services and more.
   - P2P-Ecommerce (peer-to-peer transactions) connects buyers directly with sellers.
-  - Micro-Equity (micro-investments with paid dividends) where local entrepreneurs can access capital.
 - Payments via Crypto.
 
 ### 🎤 Support for All Creators
