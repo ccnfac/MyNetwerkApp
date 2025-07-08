@@ -22,6 +22,8 @@ MyNetwerk Social is a privacy first, creator centric social platform that blends
   - Sell subscriptions to private channels.
   - Promote affiliate products (verified partnerships only).
   - Sell music, movies, books, merchandise, courses, services and more.
+  - P2P-Ecommerce (peer-to-peer transactions) connects buyers directly with sellers.
+  - Micro-Equity (micro-investments with paid dividends) where local entrepreneurs can access capital.
 - Payments via Crypto.
 
 ### 🎤 Support for All Creators
@@ -32,23 +34,7 @@ MyNetwerk Social is a privacy first, creator centric social platform that blends
 - 🧠 Educators: launch topic-based micro-courses in STEM & trade skills.
 - 🤣 Comedians: charge for video clips or subscription to exclusive content.
 
-### 📍 Loqi: Nearby Discovery
-- Creators can promote events, pop-ups, meetups, or local influencer programs.
-- No location tracking unless explicitly turned on per post/event.
-- Users can search by proximity or interest.
-
----
-
-## 🔐 Privacy & Security
-
-- 🔒 **Strict verification**: No impersonators, deepfake bans, and fast takedowns.
-- 🧒 **Child protection filters**: No 18+, sexual, racial, or political content for minors.
-- 🚫 No face avatars, or biometric modeling.
-- 🔍 Manual location control: Nothing is geotagged by default.
-
----
-
-## 🧠 STEM & Skills Feed
+## 🧠 Live: STEM Skills & Content Creator TV
 
 - Filter your feed by topics like:
   - AI & Robotics
@@ -60,13 +46,21 @@ MyNetwerk Social is a privacy first, creator centric social platform that blends
 
 ---
 
+## 🔐 Privacy & Security
+
+- 🔒 **Strict verification**: No impersonators, deepfake bans, and fast takedowns.
+- 🧒 **Child protection filters**: No 18+, sexual, racial, or political content for minors.
+- 🔍 Manual location control: Nothing is geotagged by default.
+
+---
+
 ## 📱 Tech Stack
 
 - **Frontend:** React Native / Flutter
 - **Backend:** Node.js + GraphQL OR Rust-based service mesh
 - **Media Delivery:** IPFS / Cloudflare Stream / WebRTC
 - **Payments:** Crypto wallet integration
-- **Authentication:** Email + Biometric (on-device only)
+- **Authentication:** Phone + Biometric (on-device only)
 - **Database:** PostgreSQL + Redis
 
 ---
