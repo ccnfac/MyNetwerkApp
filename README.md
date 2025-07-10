@@ -50,7 +50,7 @@ MyNetwerk Social is a privacy first, creator centric social platform that blends
 - 🔒 **Strict verification**: No impersonators, deepfake bans, and fast takedowns.
 - 🧒 **Child protection filters**: No 18+, sexual, racial, or political content for minors.
 - 🔍 Manual location control: Nothing is geotagged by default.
-**Age Verification**: In order to access 18+ content, users must provide valid identification to verify their age. 
+- **Age Verification**: In order to access 18+ content, users must provide valid identification to verify their age. 
 
 ---
 
