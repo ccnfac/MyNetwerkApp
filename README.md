@@ -32,6 +32,7 @@ MyNetwerk Social is a privacy first, creator centric social platform that blends
 - 🛍️ Retail stores: sell products with integrated delivery.
 - 🧠 Educators: launch topic-based micro-courses in STEM & trade skills.
 - 🤣 Comedians: charge for video clips or subscription to exclusive content.
+- **Verified Media Outlets & Premium Accounts:** access to high-quality, exclusive content through paid subscriptions and premium features, accessible only to verified users over 18.
 
 ## 🧠 Live: STEM Skills & Content Creator TV
 
