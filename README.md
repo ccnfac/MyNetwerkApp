@@ -34,7 +34,7 @@ MyNetwerk Social is a privacy first, creator centric social platform that blends
 - 🤣 Comedians: charge for video clips or subscription to exclusive content.
 - **Verified Media Outlets & Premium Accounts:** access to high-quality, exclusive content through paid subscriptions and premium features, content accessible only to verified users over 18.
 
-## 🧠 Live: STEM Skills & Content Creator TV
+## 🧠 Content Creator TV
 
 - Filter your feed by topics like:
   - AI & Robotics
