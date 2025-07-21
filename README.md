@@ -60,7 +60,7 @@ MyNetwerk Social is a privacy first, creator centric social platform that blends
 - **Frontend:** React Native / Flutter
 - **Backend:** Node.js + GraphQL OR Rust-based service mesh
 - **Media Delivery:** IPFS / Cloudflare Stream / WebRTC
-- **Authentication:** Phone + Biometric (on-device only)
+- **Authentication:** Phone + Biometric
 - **Database:** PostgreSQL + Redis
 
 ---
