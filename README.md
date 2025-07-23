@@ -74,8 +74,5 @@ We're looking for:
 - **UX/UI designers**
 - **Influencers & educators**
 
-Want to help? Email us at `g7485987384@yahoo.com`
-
----
 
 
