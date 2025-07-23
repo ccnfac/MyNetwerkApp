@@ -16,7 +16,6 @@ MyNetwerk Social is a privacy first, creator centric social platform that blends
 - Swipe-based, full screen content feed.
 - Creators can post photos, videos, music, books, livestreams, and more.
 - Monetization integrated into posts and streams.
-- Encrypted messaging and calling features.
 
 ### 💸 Direct Monetization 
 - Influencers and creators can:
