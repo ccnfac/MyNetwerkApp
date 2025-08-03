@@ -4,9 +4,10 @@
 ## **🚀 Overview**
 MyNetwerk Social is a creator-centric social media platform that blends the immersive, swipeable experience of TikTok with the monetization and business tools of Amazon and Instagram without relying on traditional advertising. Instead, creators earn directly from their audience through seamless cryptocurrency payments. 
 
-<img width="800" height="800" alt="ChatGPT Image Aug 3, 2025, 05_00_16 PM" src="https://github.com/user-attachments/assets/2ba0aedd-f0de-4dc7-97ad-6677fe5fa788" />
+<img width="600" height="600" alt="ChatGPT Image Aug 3, 2025, 05_00_16 PM" src="https://github.com/user-attachments/assets/80cc1767-239e-48c4-866d-589a380cd0cd" />
 
 ## **🎯 Key Features**
+
 
 ### **🔄 UI/UX Inspired by TikTok**
 * Swipe-based, full screen content feed optimized for instant loading
