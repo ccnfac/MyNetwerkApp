@@ -100,7 +100,7 @@ Learn from real pros and get paid in crypto for teaching others.
 ### **Blockchain Layer (Decentralized)**
 * **Smart Contracts**: Solidity (Ethereum), Rust (Solana)
 * **Payment Processing**: Multi-chain payment gateway
-* **Identity**: Wallet-based authentication with optional KYC
+* **Identity**: Wallet-based authentication
 * **Governance**: DAO structure for platform decisions
 
 ## **🔄 User Flow**
