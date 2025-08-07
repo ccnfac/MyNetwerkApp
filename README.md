@@ -4,7 +4,12 @@
 ## **🚀 Overview**
 MyNetwerk Social is a creator-centric social media platform that blends the immersive, swipeable experience of TikTok with the monetization and business tools of Amazon and Instagram without relying on traditional advertising. Instead, creators earn directly from their audience through seamless cryptocurrency payments. 
 
-<img width="600" height="600" alt="ChatGPT Image Aug 3, 2025, 05_00_16 PM" src="https://github.com/user-attachments/assets/80cc1767-239e-48c4-866d-589a380cd0cd" />
+<img width="1379" height="802" alt="Screenshot from 2025-08-07 18-35-45" src="https://github.com/user-attachments/assets/c9f6a22a-b025-415e-9fdd-b4e15f7e3d2b" />
+<img width="1379" height="802" alt="Screenshot from 2025-08-07 18-36-00" src="https://github.com/user-attachments/assets/80d61b77-3a9d-49d9-a732-9a544ceb4da3" />
+<img width="1379" height="802" alt="Screenshot from 2025-08-07 18-36-11" src="https://github.com/user-attachments/assets/11bb33e3-548d-4d53-8be4-b03b1d239b0b" />
+<img width="1379" height="802" alt="Screenshot from 2025-08-07 18-36-27" src="https://github.com/user-attachments/assets/4eda718c-b519-4ecc-a693-95c43a6882b7" />
+<img width="1379" height="802" alt="Screenshot from 2025-08-07 18-36-42" src="https://github.com/user-attachments/assets/31f7cdb6-e4a0-4ab6-8172-4d7542e38d0c" />
+<img width="1379" height="802" alt="Screenshot from 2025-08-07 18-38-14" src="https://github.com/user-attachments/assets/7295901c-cbff-45f3-bc52-6d6d1f51206a" />
 
 ## **🎯 Key Features**
 
