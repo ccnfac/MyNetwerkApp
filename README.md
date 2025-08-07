@@ -2,7 +2,7 @@
 **A next generation social media platform built for creators, powered by fairness, and designed to protect user privacy. No ads. No exploitation. Just real connections and real opportunities!**
 
 ## **🚀 Overview**
-MyNetwerk Social is a creator-centric social media platform that blends the immersive, swipeable experience of TikTok with the monetization and business tools of Amazon and Instagram without relying on traditional advertising. Instead, creators earn directly from their audience through seamless cryptocurrency payments. 
+MyNetwork is a creator-centric social media platform that blends the immersive, swipeable experience of TikTok with the monetization and business tools of Amazon and Instagram without relying on traditional advertising. Instead, creators earn directly from their audience through seamless cryptocurrency payments. 
 
 <img width="1379" height="802" alt="Screenshot from 2025-08-07 18-35-45" src="https://github.com/user-attachments/assets/c9f6a22a-b025-415e-9fdd-b4e15f7e3d2b" />
 <img width="1379" height="802" alt="Screenshot from 2025-08-07 18-36-00" src="https://github.com/user-attachments/assets/80d61b77-3a9d-49d9-a732-9a544ceb4da3" />
