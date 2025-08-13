@@ -66,7 +66,7 @@ Learn from real pros and get paid in crypto for teaching others.
 ### **Decentralized Payments**
 * **Trustless Transactions**: All payments processed on-chain
 * **Multiple Networks**: Ethereum (Layer 2), Solana, Polygon, Arbitrum
-* **Stablecoin Focus**: USDC, USDT, DAI for price stability
+* **Stablecoin Focus**: USD1, USDC, USDT, DAI for price stability
 * **Smart Contracts**: Automated royalty splits and subscription management
 
 ## **💰 Supported Cryptocurrencies & Networks**
@@ -77,7 +77,7 @@ Learn from real pros and get paid in crypto for teaching others.
 * **Base** (Coinbase's L2 for mainstream adoption)
 
 ### **Supported Tokens**
-* **Stablecoins**: USDC, USDT, DAI
+* **Stablecoins**: USD1, USDC, USDT, DAI
 * **Native Tokens**: ETH, SOL, MATIC
 * **Platform Token**: $MYNW (governance and rewards)
 
