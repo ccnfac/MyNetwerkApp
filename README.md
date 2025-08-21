@@ -93,7 +93,7 @@ Learn from real pros and get paid in crypto for teaching others.
   * Governance rights (DAO).
   * Earned by supporting the network through P2P hosting and engagement
   * Utility within platform: spend $MYNW for creator tipping and fee reductions
-  * Cash out option: convert $MYNW into stablecoins (USDC, USDT) in app, with withdrawals to external wallets or fiat via exchange partners
+  * **CA$H OUT** option: convert $MYNW into stablecoins (USDC, USDT) in app, with withdrawals to external wallets or fiat via exchange partners
 
 ### **Wallet Integration**
 * MetaMask, WalletConnect, Coinbase Wallet
