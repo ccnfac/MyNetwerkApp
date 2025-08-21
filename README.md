@@ -64,7 +64,7 @@ Learn from real pros and get paid in crypto for teaching others.
 ### **Step 2: Verified Content Offload to P2P**
 
 * **Video & Livestreams**: Stay fully CDN-based for performance.
-* **Music, Ebooks, Images, Documents**: After passing validation, replicated onto P2P (IPFS/Filecoin/Arweave-like).
+* **Music, Ebooks, Images, Documents**: After passing validation, replicated onto P2P (IPFS/Filecoin/Arweave).
 * CDN remains as a **fallback** to ensure availability.
 
 ### **Step 3: Incentivized Distribution via \$MYNW**
