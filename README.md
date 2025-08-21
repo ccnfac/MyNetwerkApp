@@ -126,8 +126,8 @@ Learn from real pros and get paid in crypto for teaching others.
 1. **Account Creation**: Connect wallet (MetaMask, Phantom, etc.)
 2. **Profile Setup**: Link social handles, add bio, set payment preferences
 3. **Content Upload**: Upload media to centralized servers (security validation)
-   Video → stays on CDN
-   Downloads → pushed to P2P after review
+   * Video → stays on CDN
+   * Downloads → pushed to P2P after review
 4. **Monetization**: Set prices in stablecoins, enable subscriptions
 5. **Discovery**: Users browse content, pay with crypto for premium access
 6. **Payments**: Instant wallet-to-wallet settlements via smart contracts
