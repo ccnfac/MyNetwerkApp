@@ -35,8 +35,8 @@ MyNetwork is a creator-centric social media platform that blends the immersive, 
 * 🛍️ Retail stores: sell products with integrated delivery.
 * 🧠 Educators: launch topic-based micro-courses in STEM & trade skills.
 * 🤣 Comedians: charge for video clips or subscription to exclusive content.
-
 * **Verified Media Outlets & Premium Accounts**: SaaS-style subscriptions, content always CDN-served.
+  
 ### **🧠 Content Creator TV**
 Filter your feed by topics like:
 * AI & Robotics
@@ -53,35 +53,39 @@ Learn from real pros and get paid in crypto for teaching others.
 * 🔍 **Manual location control**: Nothing is geotagged by default
 * **Age Verification**: Valid ID required to access 18+ content
 * **Wallet Security**: Non-custodial wallet integration with multi-sig support
+  
 ## **⚡ Hybrid Content Delivery Architecture**
-### **Step 1: Centralized Media Storage (CDN Default Ingest)
+### **Step 1: Centralized Media Storage (CDN Default Ingest)**
 
 * All uploads (music, ebooks, videos, etc.) start on the CDN for speed and moderation.
 * Automated + manual checks ensure compliance before distribution.
 * Ability to remove harmful or illegal content.
 
-### **Step 2: Verified Content Offload to P2P
+### **Step 2: Verified Content Offload to P2P**
 
 * ** Video & Livestreams**: Stay fully CDN-based for performance.
 * ** Music, Ebooks, Images, Documents**: After passing validation, replicated onto P2P (IPFS/Filecoin/Arweave-like).
 * CDN remains as a **fallback** to ensure availability.
 
-### **Step 3: Incentivized Distribution via \$MYNW
+### **Step 3: Incentivized Distribution via \$MYNW**
 
 * Users who stay online and relay P2P content earn \$MYNW token rewards.
 * Rewards scale with uptime + bandwidth shared (Proof-of-Distribution model).
 * This reduces infra costs and turns the community into network participants.
  
-### **Step 4: Decentralized Payments
+### **Step 4: Decentralized Payments**
+
 * Trustless Transactions: All payments processed on-chain
 * Multiple Networks: Ethereum (Layer 2), Solana, Polygon, Arbitrum
 * Stablecoin Focus: USD1, USDC, USDT, DAI for price stability
 * Smart Contracts: Automated royalty splits and subscription management
+  
 ## **💰 Supported Cryptocurrencies & Networks**
 ### **Primary Networks**
 * **Ethereum** (+ Layer 2: Arbitrum, Optimism, Polygon)
 * **Solana** (High speed, low fees)
 * **Base** (Coinbase's L2 for mainstream adoption)
+  
 ### **Supported Tokens**
 * **Stablecoins**: USD1, USDC, USDT, DAI
 * **Native Tokens**: ETH, SOL, MATIC
@@ -97,17 +101,19 @@ Learn from real pros and get paid in crypto for teaching others.
 * Rainbow, Trust Wallet
 * Ledger and Trezor hardware wallet support
 * Emerging Wallets: SafePal, ZenGo, Robinhood Wallet
+  
 ## **📱 Tech Stack**
 ### **Frontend**
 * **Mobile**: React Native / Flutter
 * **Web**: Next.js with Web3 integration
 * **Wallet Connection**: WalletConnect, Wagmi, Solana Wallet Adapter
+  
 ### **Backend (Centralized)**
 * **API**: Node.js + GraphQL OR Rust-based microservices
 * **Database**: PostgreSQL + Redis for caching
 * **Media Storage**: AWS S3 / Google Cloud with global CDN
 * **Content Delivery**: Cloudflare Stream for video optimization
-* **P2P layer: IPFS/Filecoin/Arweave nodes for validated music, books, and downloadable content (no video)
+* **P2P layer**: IPFS/Filecoin/Arweave nodes for validated music, books, and downloadable content (no video)
 
 ### **Blockchain Layer (Decentralized)**
 * **Smart Contracts**: Solidity (Ethereum), Rust (Solana)
@@ -115,6 +121,7 @@ Learn from real pros and get paid in crypto for teaching others.
 * **Identity**: Wallet-based authentication
 * **Governance**: DAO structure for platform decisions
 * **Smart contracts** handle creator royalties and \$MYNW token rewards distribution
+  
 ## **🔄 User Flow**
 1. **Account Creation**: Connect wallet (MetaMask, Phantom, etc.)
 2. **Profile Setup**: Link social handles, add bio, set payment preferences
@@ -125,6 +132,7 @@ Learn from real pros and get paid in crypto for teaching others.
 5. **Discovery**: Users browse content, pay with crypto for premium access
 6. **Payments**: Instant wallet-to-wallet settlements via smart contracts
 7. **Distribution Incentives**: Users earn \$MYNW for hosting/distributing
+   
 ## **🛡️ Security & Compliance**
 * **Non-Custodial**: Users maintain full control of their crypto
 * **Smart Contract Audits**: Regular security audits by leading firms
