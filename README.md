@@ -90,7 +90,6 @@ Learn from real pros and get paid in crypto for teaching others.
 * **Stablecoins**: USD1, USDC, USDT, DAI
 * **Native Tokens**: ETH, SOL, MATIC
 * **Platform Token**: \$MYNW (governance and rewards)
-  * Governance rights (DAO).
   * Earned by supporting the network through P2P hosting and engagement
   * Utility within platform: spend $MYNW for creator tipping and fee reductions
   * **CA$H OUT** option: convert $MYNW into stablecoins (USDC, USDT) in app, with withdrawals to external wallets or fiat via exchange partners
