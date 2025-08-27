@@ -118,7 +118,6 @@ Learn from real pros and get paid in crypto for teaching others.
 * **Multi-Sig Treasury**: Platform funds secured with multi-signature wallets
 * **Privacy**: No tracking cookies, minimal data collection
 * **Full control** over moderation pipeline.
-* **Hybrid** content removal (delete CDN copy, cut token rewards to minimize P2P distribution)
 
 ---
 
