@@ -140,17 +140,6 @@ Learn from real pros and get paid in crypto for teaching others.
 * **Full control** over moderation pipeline.
 * **Hybrid** content removal (delete CDN copy, cut token rewards to minimize P2P distribution)
 
-## **🤝 Get Involved**
-We're looking for:
-
-* **Developers** (React Native, Flutter)
-* **Blockchain developers** (Solidity, Rust, Web3.js)
-* **Backend architects** (Node.js, GraphQL, microservices)
-* **DevOps engineers** (AWS, Docker, Kubernetes, P2P infra)
-* **Security auditors** (Smart contracts, Web3 security)
-* **UX/UI designers** (Mobile-first, Web3 UX)
-* **Community managers** and **early creator partners**
-
 ---
 
 **Built with ❤️ for creators, powered by blockchain technology, and designed for the future of social media.**
