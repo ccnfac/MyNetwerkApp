@@ -52,7 +52,7 @@ Learn from real pros and get paid in crypto for teaching others.
 * 🧒 **Child protection filters**: No 18+, sexual, racial, or political content for minors
 * 🔍 **Manual location control**: Nothing is geotagged by default
 * **Age Verification**: Valid ID required to access 18+ content
-* **Wallet Security**: Non-custodial wallet integration with multi-sig support
+* **Wallet Security**: Non-custodial wallet integration, wallet based identification
   
 ## **⚡ Hybrid Content Delivery Architecture**
 ### **Step 1: Centralized Media Storage (CDN Default Ingest)**
@@ -100,26 +100,6 @@ Learn from real pros and get paid in crypto for teaching others.
 * Rainbow, Trust Wallet
 * Ledger and Trezor hardware wallet support
 * Emerging Wallets: SafePal, ZenGo, Robinhood Wallet
-  
-## **📱 Tech Stack**
-### **Frontend**
-* **Mobile**: React Native / Flutter
-* **Web**: Next.js with Web3 integration
-* **Wallet Connection**: WalletConnect, Wagmi, Solana Wallet Adapter
-  
-### **Backend (Centralized)**
-* **API**: Node.js + GraphQL OR Rust-based microservices
-* **Database**: PostgreSQL + Redis for caching
-* **Media Storage**: AWS S3 / Google Cloud with global CDN
-* **Content Delivery**: Cloudflare Stream for video optimization
-* **P2P layer**: IPFS/Filecoin/Arweave nodes for validated music, books, and downloadable content (no video)
-
-### **Blockchain Layer (Decentralized)**
-* **Smart Contracts**: Solidity (Ethereum), Rust (Solana)
-* **Payment Processing**: Multi-chain payment gateway
-* **Identity**: Wallet-based authentication
-* **Governance**: DAO structure for platform decisions
-* **Smart contracts** handle creator royalties and \$MYNW token rewards distribution
   
 ## **🔄 User Flow**
 1. **Account Creation**: Connect wallet (MetaMask, Phantom, etc.)
