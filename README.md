@@ -71,7 +71,7 @@ Learn from real pros and get paid in crypto for teaching others.
 
 * Users who stay online and relay P2P content earn \$MYNW token rewards.
 * Rewards scale with uptime + bandwidth shared (Proof-of-Distribution model).
-* This reduces infra costs and turns the community into network participants.
+* Reduces infrastructure costs and turns the community into network participants.
  
 ### **Step 4: Decentralized Payments**
 
