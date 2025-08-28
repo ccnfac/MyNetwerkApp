@@ -80,7 +80,7 @@ Learn from real pros and get paid in crypto for teaching others.
   
 ## **💰 Supported Cryptocurrencies & Networks**
 ### **Primary Networks**
-* **Ethereum** (+ Layer 2: Arbitrum, Optimism, Polygon)
+* **Ethereum** (Layer 2: Arbitrum, Optimism, Polygon)
 * **Solana** (High speed, Low fees)
   
 ### **Supported Tokens**
