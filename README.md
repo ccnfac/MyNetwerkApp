@@ -57,7 +57,7 @@ Learn from real pros and get paid in crypto for teaching others.
 ## **⚡ Hybrid Content Delivery Architecture**
 ### **Step 1: Centralized Media Storage (CDN Default Ingest)**
 
-* All uploads (music, ebooks, videos, etc.) start on the CDN for speed and moderation.
+* All uploads start on the CDN for speed and moderation.
 * Automated + manual checks ensure compliance before distribution.
 * Ability to remove harmful or illegal content.
 
