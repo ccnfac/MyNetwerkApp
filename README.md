@@ -15,8 +15,8 @@ MyNetwork is a creator-centric social media platform that blends the immersive, 
 
 ### **🔄 UI/UX Inspired by TikTok**
 * Swipe-based, full screen content feed optimized for instant loading
-* Creators can post photos, videos, music, books, livestreams, and more
-* Integrated crypto payment system for seamless monetization
+* Creators can post photos, videos, music, books, and more
+* Integrated crypto payments for seamless monetization
 
 ### **💸 Direct Crypto Monetization**
 * **Stablecoin Payments**: USD1, USDC, USDT for price stability
