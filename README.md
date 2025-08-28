@@ -19,9 +19,8 @@ MyNetwork is a creator-centric social media platform that blends the immersive, 
 * Integrated crypto payment system for seamless monetization
 
 ### **💸 Direct Crypto Monetization**
-* **Multi-Chain Support**: Ethereum, Solana, and other major networks
-* **Stablecoin Payments**: USD1, USDC, USDT, DAI for price stability
-* **Instant Settlements**: Direct wallet-to-wallet transactions
+* **Stablecoin Payments**: USD1, USDC, USDT for price stability
+* **Instant Settlements**: Direct wallet to wallet transactions
 * Influencers and creators can:
    * Sell subscriptions to private channels 
    * Promote affiliate products with commissions
@@ -64,46 +63,41 @@ Learn from real pros and get paid in crypto for teaching others.
 ### **Step 2: Verified Content Offload to P2P**
 
 * **Video & Livestreams**: Stay fully CDN-based for performance.
-* **Music, Ebooks, Images, Documents**: After passing validation, replicated onto P2P (IPFS/Filecoin/Arweave).
-* CDN remains as a **fallback** to ensure availability.
+* **Music, Ebooks, Images, Documents**: After passing validation, replicated onto P2P (IPFS)
+* CDN remains as a fallback to ensure availability
 
 ### **Step 3: Incentivized Distribution via \$MYNW**
 
-* Users who stay online and relay P2P content earn $MYNW token rewards.
-* Cash out $MYNW for U.S. Dollars with exchange partners.
-* Rewards scale with uptime + bandwidth shared (Proof-of-Distribution model).
-* Reduces infrastructure costs and turns the community into network participants.
+* Users who stay online and relay P2P content earn $MYNW token rewards
+* Cash out $MYNW for U.S. Dollars with exchange partners
+* Rewards scale with uptime + bandwidth shared (Proof-of-Distribution model)
+* Reduces infrastructure costs and turns the community into network participants
  
 ### **Step 4: Decentralized Payments**
 
 * Trustless Transactions: All payments processed on-chain
-* Multiple Networks: Ethereum (Layer 2), Solana, Polygon, Arbitrum
-* Stablecoin Focus: USD1, USDC, USDT, DAI for price stability
 * Smart Contracts: Automated royalty splits and subscription management
   
 ## **💰 Supported Cryptocurrencies & Networks**
 ### **Primary Networks**
 * **Ethereum** (+ Layer 2: Arbitrum, Optimism, Polygon)
-* **Solana** (High speed, low fees)
-* **Base** (Coinbase's L2 for mainstream adoption)
+* **Solana** (High speed, Low fees)
   
 ### **Supported Tokens**
-* **Stablecoins**: USD1, USDC, USDT, DAI
-* **Native Tokens**: ETH, SOL, MATIC
-* **Platform Token**: \$MYNW (governance and rewards)
+* **Stablecoins**: USD1, USDC, USDT
+* **Native Tokens**: ETH, SOL
+* **Platform Token**: $MYNW (governance and rewards)
   * Earned by supporting the network through P2P hosting and engagement
   * Utility within platform: spend $MYNW for creator tipping and fee reductions
-  * **CA$H OUT** option: convert $MYNW into stablecoins (USDC, USDT) in app with withdrawals to external wallets or fiat via exchange partners
+  * **CA$H OUT** option: convert $MYNW into stablecoins in app with withdrawals to external wallets or fiat via exchange partners
 
 ### **Wallet Integration**
-* MetaMask, WalletConnect, Coinbase Wallet
-* Phantom, Solflare (Solana)
-* Rainbow, Trust Wallet
-* Ledger and Trezor hardware wallet support
-* Emerging Wallets: SafePal, ZenGo, Robinhood Wallet
+* Phantom
+* Coinbase 
+* MetaMask
   
 ## **🔄 User Flow**
-1. **Account Creation**: Connect wallet (MetaMask, Phantom, etc.)
+1. **Account Creation**: Connect wallet (Phantom, Coinbase, MetaMask)
 2. **Profile Setup**: Link social handles, add bio, set payment preferences
 3. **Content Upload**: Upload media to centralized servers (security validation)
    * Video → stays on CDN
@@ -111,7 +105,7 @@ Learn from real pros and get paid in crypto for teaching others.
 4. **Monetization**: Set prices in stablecoins, enable subscriptions
 5. **Discovery**: Users browse content, pay with crypto for premium access
 6. **Payments**: Instant wallet-to-wallet settlements via smart contracts
-7. **Distribution Incentives**: Users earn \$MYNW for hosting/distributing
+7. **Distribution Incentives**: Users earn $MYNW for hosting/distributing
    
 ## **🛡️ Security & Compliance**
 * **Non-Custodial**: Users maintain full control of their crypto
