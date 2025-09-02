@@ -79,14 +79,9 @@ Learn from real pros and get paid in crypto for teaching others.
 * Trustless Transactions: All payments processed on-chain
 * Smart Contracts: Automated royalty splits and subscription management
   
-## **💰 Supported Cryptocurrencies & Networks**
-### **Primary Networks**
-* **Ethereum** (Layer 2: Arbitrum, Optimism, Polygon)
-* **Solana** (High speed, Low fees)
-  
 ### **Supported Tokens**
+* **Solana**: High speed, Low fees
 * **Stablecoins**: USD1, USDC, USDT
-* **Native Tokens**: ETH, SOL
 * **Platform Token**: $MYNW (governance and rewards)
   * Earned by supporting the network through P2P hosting and engagement
   * Utility within platform: spend $MYNW for creator tipping and fee reductions
@@ -95,10 +90,10 @@ Learn from real pros and get paid in crypto for teaching others.
 ### **Wallet Integration**
 * Phantom
 * Coinbase 
-* MetaMask
+* Solflare
   
 ## **🔄 User Flow**
-1. **Account Creation**: Connect wallet (Phantom, Coinbase, MetaMask)
+1. **Account Creation**: Connect wallet 
 2. **Profile Setup**: Link social handles, add bio, set payment preferences
 3. **Content Upload**: Upload media to centralized servers (security validation)
    * Video → stays on CDN
