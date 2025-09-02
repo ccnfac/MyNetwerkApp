@@ -79,7 +79,7 @@ Learn from real pros and get paid in crypto for teaching others.
 * Trustless Transactions: All payments processed on-chain
 * Smart Contracts: Automated royalty splits and subscription management
   
-### **Supported Tokens**
+### **💰 Supported Tokens**
 * **Solana**: High speed, Low fees
 * **Stablecoins**: USD1, USDC, USDT
 * **Platform Token**: $MYNW (governance and rewards)
