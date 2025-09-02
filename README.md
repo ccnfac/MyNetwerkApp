@@ -80,6 +80,7 @@ Learn from real pros and get paid in crypto for teaching others.
   
 ### **💰 Supported Tokens**
 * **Solana**: High speed, Low fees
+* **Ethereum**: Large Transactions
 * **Stablecoins**: USD1, USDC, USDT
 * **Platform Token**: $MYNW (governance and rewards)
   * Earned by supporting the network through P2P hosting and engagement
@@ -90,6 +91,7 @@ Learn from real pros and get paid in crypto for teaching others.
 * Phantom
 * Coinbase 
 * Solflare
+* MetaMask
   
 ## **🔄 User Flow**
 1. **Account Creation**: Connect wallet 
