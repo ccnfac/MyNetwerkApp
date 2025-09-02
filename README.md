@@ -52,7 +52,7 @@ Learn from real pros and get paid in crypto for teaching others.
 * 🧒 **Child protection filters**: No 18+, sexual, racial, or political content for minors
 * 🔍 **Manual location control**: Nothing is geotagged by default
 * **Age Verification**: Valid ID required to access 18+ content
-* **Wallet Security**: Non-custodial wallet integration, wallet based identification
+* **Wallet Security**: Non-custodial wallet integration
   
 ## **⚡ Hybrid Content Delivery Architecture**
 ### **Step 1: Centralized Media Storage (CDN Default Ingest)**
