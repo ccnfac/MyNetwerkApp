@@ -51,7 +51,7 @@ Learn from real pros and get paid in crypto for teaching others.
 * 🔒 **Strict verification**: No impersonators, deepfake bans, and fast takedowns
 * 🧒 **Child protection filters**: No 18+, sexual, racial, or political content for minors
 * 🔍 **Manual location control**: Nothing is geotagged by default
-* **Age Verification**: Valid ID required to access 18+ content
+* 🔑 **KYC/AML by Sumsub**: Identity verification ensures age checks, fraud prevention, and global compliance
 * **Wallet Security**: Non-custodial wallet integration
   
 ## **⚡ Hybrid Content Delivery Architecture**
