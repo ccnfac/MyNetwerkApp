@@ -51,7 +51,7 @@ Learn from real pros and get paid in crypto for teaching others.
 * 🔒 **Strict verification**: No impersonators, deepfake bans, and fast takedowns
 * 🧒 **Child protection filters**: No 18+, sexual, racial, or political content for minors
 * 🔍 **Manual location control**: Nothing is geotagged by default
-* 🔑 **KYC/AML by Sumsub**: Identity verification ensures age checks, fraud prevention, and global compliance
+* 🔑 **KYC/AML Sumsub**: Identity verification, fraud prevention, and global compliance
   
 ## **⚡ Hybrid Content Delivery Architecture**
 ### **Step 1: Centralized Media Storage (CDN Default Ingest)**
