@@ -30,7 +30,7 @@ MyNetwork is a creator-centric social media platform that blends the immersive, 
    * Instantly create products in app with price, description, and delivery type 
    * Display a QR code at checkout for buyers to scan
    * Accept stablecoin payments directly from customers with instant settlement
-   * Track sales history, manage inventory, and withdraw earnings to cash via integrated off ramps
+   * Track sales history, manage inventory, and withdraw earnings for cash
 
 ### **🎤 Support for All Creators**
 * 🎶 Musicians: sell music or albums directly.
