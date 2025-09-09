@@ -96,7 +96,7 @@ Learn from real pros and get paid in crypto for teaching others.
 ## **🔄 User Flow**
 1. **Account Creation**: Connect wallet 
 2. **Profile Setup**: Link social handles, add bio, set payment preferences
-3. **Add Funds**: User can buy stablecoins directly in app via integrated provider (Transak)
+3. **Add Funds**: User can buy stablecoins directly in app
 4. **Content Upload**: Upload media to centralized servers (security validation)
    * Video → stays on CDN
    * Downloads → pushed to P2P after review
@@ -104,7 +104,7 @@ Learn from real pros and get paid in crypto for teaching others.
 6. **Discovery**: Users browse content, pay with crypto for premium access
 7. **Payments**: Instant wallet to wallet settlements via smart contracts
 8. **Distribution Incentives**: Users earn $MYNW for hosting/distributing
-9. **Withdraw Funds**: Creators can convert stablecoins (USD1, USDC, USDT) to cash (Transak)
+9. **Withdraw Funds**: Creators can convert stablecoins (USD1, USDC, USDT) to cash 
    
 ## **🛡️ Security & Compliance**
 * **Non-Custodial**: Users maintain full control of their crypto
