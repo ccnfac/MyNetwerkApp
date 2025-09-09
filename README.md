@@ -49,13 +49,11 @@ Filter your feed by topics like:
 * Welding & Auto Repair
 * Soldering & 3D Printing
 * Cybersecurity & Coding
-
 Learn from real pros and get paid in crypto for teaching others.
 
 ### **🔐 Privacy & Security**
 * 🔒 **Strict verification**: No impersonators, deepfake bans, and fast takedowns
 * 🧒 **Child protection filters**: No 18+, sexual, racial, or political content for minors
-* 🔍 **Manual location control**: Nothing is geotagged by default
 * 🔑 **KYC/AML (Sumsub + Transak)**: Identity verification, regulated cash on/off-ramps, and global compliance
   
 ## **⚡ Hybrid Content Delivery Architecture**
