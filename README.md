@@ -31,14 +31,14 @@ MyNetwork is a creator-centric social media platform that blends the immersive, 
    * Track sales, manage inventory, and withdraw stablecoins for cash
 
 ### **🎤 Support for All Creators**
-* 🎶 Musicians: sell music or albums directly.
-* 🎬 Filmmakers: sell or rent movies in app.
-* 📚 Authors: sell digital or physical books.
-* 🛍️ Retail stores: sell products with integrated delivery.
-* 🧠 Educators: launch topic-based micro-courses in STEM & trade skills.
-* 🤣 Comedians: charge for video clips or subscription to exclusive content.
-* 👗 Models: sell exclusive content or subscription based fan experiences.
-* **Verified Media Outlets & Premium Accounts**: SaaS style subscriptions, content always CDN served.
+* 🎶 Musicians: sell music or albums directly
+* 🎬 Filmmakers: sell or rent movies in app
+* 📚 Authors: sell digital or physical books
+* 🛍️ Retail stores: sell products with integrated delivery
+* 🧠 Educators: launch topic-based micro-courses in STEM & trade skills
+* 🤣 Comedians: charge for video clips or subscription to exclusive content
+* 👗 Models: sell exclusive content or subscription based fan experiences
+* **Verified Media Outlets & Premium Accounts**: SaaS style subscriptions, content always CDN served
   
 ### **🧠 Content Creator TV**
 Filter your feed by topics like:
