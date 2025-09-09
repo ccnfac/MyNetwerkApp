@@ -71,7 +71,7 @@ Learn from real pros and get paid in crypto for teaching others.
 ### **Step 3: Incentivized Distribution via \$MYNW**
 
 * Users who stay online and relay P2P content earn $MYNW token rewards
-* Cash out $MYNW for U.S. Dollars with exchange partners
+* Cash out $MYNW for local fiat with exchange partners
 * Rewards scale with uptime + bandwidth shared (Proof-of-Distribution model)
 * Reduces infrastructure costs and turns the community into network participants
   
@@ -82,7 +82,7 @@ Learn from real pros and get paid in crypto for teaching others.
 * **Platform Token**: $MYNW (governance and rewards)
   * Earned by supporting the network through P2P hosting and engagement
   * Utility within platform: spend $MYNW for creator tipping and fee reductions
-  * **CA$H OUT**: convert $MYNW into stablecoins with withdrawals to external wallets or local fiat via exchange partners
+  * **CA$H OUT**: convert $MYNW into local fiat via exchange partners
 
 ### **Wallet Integration**
 * Phantom
