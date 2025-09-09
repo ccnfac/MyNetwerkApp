@@ -28,7 +28,7 @@ MyNetwork is a creator-centric social media platform that blends the immersive, 
 * Stores and Sellers can use the platform as a Point of Sale system:
    * Create products in app with price, description, and delivery type 
    * Display payment link at checkout for buyers to pay in stablecoins
-   * Track sales, manage inventory, and withdraw stablecoins for cash
+   * Track sales, manage inventory, and withdraw stablecoins for local fiat
 
 ### **🎤 Support for All Creators**
 * 🎶 Musicians: sell music or albums directly
@@ -53,7 +53,7 @@ Learn from real pros and get paid in crypto for teaching others.
 ### **🔐 Privacy & Security**
 * 🔒 **Strict verification**: No impersonators, deepfake bans, and fast takedowns
 * 🧒 **Child protection filters**: No 18+, sexual, racial, or political content for minors
-* 🔑 **KYC/AML (Sumsub + Transak)**: Identity verification, regulated cash on/off-ramps, and global compliance
+* 🔑 **KYC/AML (Sumsub + Transak)**: Identity verification, regulated fiat on/off-ramps, and global compliance
   
 ## **⚡ Hybrid Content Delivery Network Architecture**
 ### **Step 1: Centralized Media Storage (CDN Default Ingest)**
@@ -82,7 +82,7 @@ Learn from real pros and get paid in crypto for teaching others.
 * **Platform Token**: $MYNW (governance and rewards)
   * Earned by supporting the network through P2P hosting and engagement
   * Utility within platform: spend $MYNW for creator tipping and fee reductions
-  * **CA$H OUT** option: convert $MYNW into stablecoins in app with withdrawals to external wallets or cash via exchange partners
+  * **CA$H OUT** option: convert $MYNW into stablecoins in app with withdrawals to external wallets or local fiat via exchange partners
 
 ### **Wallet Integration**
 * Phantom
@@ -101,7 +101,7 @@ Learn from real pros and get paid in crypto for teaching others.
 6. **Discovery**: Users browse content, pay with crypto for premium access
 7. **Payments**: Instant wallet to wallet settlements via smart contracts
 8. **Distribution Incentives**: Users earn $MYNW for hosting/distributing
-9. **Withdraw Funds**: Creators can convert stablecoins (USD1, USDC, USDT) to cash 
+9. **Withdraw Funds**: Creators can convert stablecoins (USD1, USDC, USDT) to local fiat 
    
 ## **🛡️ Security & Compliance**
 * **Non-Custodial**: Users maintain full control of their crypto
