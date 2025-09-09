@@ -51,7 +51,7 @@ Learn from real pros and get paid in crypto for teaching others.
 * 🔒 **Strict verification**: No impersonators, deepfake bans, and fast takedowns
 * 🧒 **Child protection filters**: No 18+, sexual, racial, or political content for minors
 * 🔍 **Manual location control**: Nothing is geotagged by default
-* 🔑 **KYC/AML Sumsub**: Identity verification, fraud prevention, and global compliance
+* 🔑 **KYC/AML (Sumsub + Transak)**: Identity verification, regulated fiat on/off-ramps, and global compliance
   
 ## **⚡ Hybrid Content Delivery Architecture**
 ### **Step 1: Centralized Media Storage (CDN Default Ingest)**
@@ -72,11 +72,6 @@ Learn from real pros and get paid in crypto for teaching others.
 * Cash out $MYNW for U.S. Dollars with exchange partners
 * Rewards scale with uptime + bandwidth shared (Proof-of-Distribution model)
 * Reduces infrastructure costs and turns the community into network participants
- 
-### **Step 4: Decentralized Payments**
-
-* Trustless Transactions: All payments processed on-chain
-* Smart Contracts: Automated royalty splits and subscription management
   
 ### **💰 Supported Tokens**
 * **Solana**: High speed, Low fees
@@ -96,13 +91,15 @@ Learn from real pros and get paid in crypto for teaching others.
 ## **🔄 User Flow**
 1. **Account Creation**: Connect wallet 
 2. **Profile Setup**: Link social handles, add bio, set payment preferences
-3. **Content Upload**: Upload media to centralized servers (security validation)
+3. **Add Funds**: User can buy stablecoins directly in-app via integrated provider (Transak)
+4. **Content Upload**: Upload media to centralized servers (security validation)
    * Video → stays on CDN
    * Downloads → pushed to P2P after review
-4. **Monetization**: Set prices in stablecoins, enable subscriptions
-5. **Discovery**: Users browse content, pay with crypto for premium access
-6. **Payments**: Instant wallet to wallet settlements via smart contracts
-7. **Distribution Incentives**: Users earn $MYNW for hosting/distributing
+5. **Monetization**: Set prices in stablecoins, enable subscriptions
+6. **Discovery**: Users browse content, pay with crypto for premium access
+7. **Payments**: Instant wallet to wallet settlements via smart contracts
+8. **Distribution Incentives**: Users earn $MYNW for hosting/distributing
+9. **Withdraw Funds**: Creators can convert stablecoins (USD1, USDC, USDT) to fiat (Transak)
    
 ## **🛡️ Security & Compliance**
 * **Non-Custodial**: Users maintain full control of their crypto
