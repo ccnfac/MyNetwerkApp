@@ -21,11 +21,16 @@ MyNetwork is a creator-centric social media platform that blends the immersive, 
 ### **💸 Direct Crypto Monetization**
 * **Stablecoin Payments**: USD1, USDC, USDT for price stability
 * **Instant Settlements**: Direct wallet to wallet transactions
-* Influencers and creators can:
+* Influencers and Creators can:
    * Sell subscriptions to private channels 
    * Promote affiliate products with commissions
    * Sell music, movies, books, merchandise, courses, and services
    * Accept P2P payments for custom content and services
+* Stores and Sellers can use the platform as a Point of Sale system:
+   * Instantly create products in app with price, description, and delivery type 
+   * Display a QR code at checkout for buyers to scan
+   * Accept stablecoin payments directly from customers with instant settlement
+   * Track sales history, manage inventory, and withdraw earnings to cash via integrated off ramps
 
 ### **🎤 Support for All Creators**
 * 🎶 Musicians: sell music or albums directly.
@@ -80,7 +85,7 @@ Learn from real pros and get paid in crypto for teaching others.
 * **Platform Token**: $MYNW (governance and rewards)
   * Earned by supporting the network through P2P hosting and engagement
   * Utility within platform: spend $MYNW for creator tipping and fee reductions
-  * **CA$H OUT** option: convert $MYNW into stablecoins in app with withdrawals to external wallets or fiat via exchange partners
+  * **CA$H OUT** option: convert $MYNW into stablecoins in app with withdrawals to external wallets or cash via exchange partners
 
 ### **Wallet Integration**
 * Phantom
@@ -91,7 +96,7 @@ Learn from real pros and get paid in crypto for teaching others.
 ## **🔄 User Flow**
 1. **Account Creation**: Connect wallet 
 2. **Profile Setup**: Link social handles, add bio, set payment preferences
-3. **Add Funds**: User can buy stablecoins directly in-app via integrated provider (Transak)
+3. **Add Funds**: User can buy stablecoins directly in app via integrated provider (Transak)
 4. **Content Upload**: Upload media to centralized servers (security validation)
    * Video → stays on CDN
    * Downloads → pushed to P2P after review
@@ -99,7 +104,7 @@ Learn from real pros and get paid in crypto for teaching others.
 6. **Discovery**: Users browse content, pay with crypto for premium access
 7. **Payments**: Instant wallet to wallet settlements via smart contracts
 8. **Distribution Incentives**: Users earn $MYNW for hosting/distributing
-9. **Withdraw Funds**: Creators can convert stablecoins (USD1, USDC, USDT) to fiat (Transak)
+9. **Withdraw Funds**: Creators can convert stablecoins (USD1, USDC, USDT) to cash (Transak)
    
 ## **🛡️ Security & Compliance**
 * **Non-Custodial**: Users maintain full control of their crypto
