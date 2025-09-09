@@ -82,7 +82,7 @@ Learn from real pros and get paid in crypto for teaching others.
 * **Platform Token**: $MYNW (governance and rewards)
   * Earned by supporting the network through P2P hosting and engagement
   * Utility within platform: spend $MYNW for creator tipping and fee reductions
-  * **CA$H OUT** option: convert $MYNW into stablecoins in app with withdrawals to external wallets or local fiat via exchange partners
+  * **CA$H OUT**: convert $MYNW into stablecoins with withdrawals to external wallets or local fiat via exchange partners
 
 ### **Wallet Integration**
 * Phantom
