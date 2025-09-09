@@ -55,7 +55,7 @@ Learn from real pros and get paid in crypto for teaching others.
 * 🧒 **Child protection filters**: No 18+, sexual, racial, or political content for minors
 * 🔑 **KYC/AML (Sumsub + Transak)**: Identity verification, regulated cash on/off-ramps, and global compliance
   
-## **⚡ Hybrid Content Delivery Network**
+## **⚡ Hybrid Content Delivery Network Architecture**
 ### **Step 1: Centralized Media Storage (CDN Default Ingest)**
 
 * All uploads start on the CDN for speed and moderation.
