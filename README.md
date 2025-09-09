@@ -27,10 +27,10 @@ MyNetwork is a creator-centric social media platform that blends the immersive, 
    * Sell music, movies, books, merchandise, courses, and services
    * Accept P2P payments for custom content and services
 * Stores and Sellers can use the platform as a Point of Sale system:
-   * Instantly create products in app with price, description, and delivery type 
+   * Create products in app with price, description, and delivery type 
    * Display payment link at checkout for buyers to pay
-   * Accept stablecoin payments directly from customers with instant settlement
-   * Track sales history, manage inventory, and withdraw earnings for cash
+   * Instant wallet to wallet settlement
+   * Track sales, manage inventory, and withdraw stablecoins for cash
 
 ### **🎤 Support for All Creators**
 * 🎶 Musicians: sell music or albums directly.
