@@ -28,8 +28,7 @@ MyNetwork is a creator-centric social media platform that blends the immersive, 
    * Accept P2P payments for custom content and services
 * Stores and Sellers can use the platform as a Point of Sale system:
    * Create products in app with price, description, and delivery type 
-   * Display payment link at checkout for buyers to pay
-   * Instant wallet to wallet settlement
+   * Display payment link at checkout for buyers to pay in stablecoins
    * Track sales, manage inventory, and withdraw stablecoins for cash
 
 ### **🎤 Support for All Creators**
