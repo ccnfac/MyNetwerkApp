@@ -19,7 +19,7 @@ MyNetwork is a creator-centric social media platform that blends the immersive, 
 * Integrated crypto payments for seamless monetization
 
 ### **💸 Direct Crypto Monetization**
-* **Stablecoin Payments**: USD1, USDC, USDT, and more for price stability
+* **Stablecoin Payments**: USD1, USDC, USDT, and Others for price stability
 * **Instant Settlements**: Direct wallet to wallet transactions
 * Influencers and Creators can:
    * Sell subscriptions to private channels 
@@ -78,7 +78,7 @@ Learn from real pros and get paid in crypto for teaching others.
 ### **💰 Supported Tokens**
 * **Solana**: High speed, Low fees
 * **Ethereum**: Large Transactions
-* **Stablecoins**: USD1, USDC, USDT, and more
+* **Stablecoins**: USD1, USDC, USDT, and Others
 * **Platform Token**: $MYNW (governance and rewards)
   * Earned by supporting the network through P2P hosting and engagement
   * Utility within platform: spend $MYNW for creator tipping and fee reductions
